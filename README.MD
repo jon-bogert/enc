@@ -4,7 +4,7 @@
 These tools were developed as an exercise. DO NOT use these tools to encrypt sensitive data.
 
 ## Description
-A suite of command line tools for encrypting and decrypting files using AES encryption. tools are as follows:
+A suite of command line tools for encrypting and decrypting files using AES encryption. Tools are as follows:
 
 - `enc`: Encypt file
 - `dec`: Decrypt file
